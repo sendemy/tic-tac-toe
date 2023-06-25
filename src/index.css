@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&display=swap');
+
+html {
+	font-family: 'Belanosima', sans-serif;
+}
+
+body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background-color: #606c38;
+}

@@ -1,0 +1,22 @@
+.restart-btn {
+	font-family: 'Belanosima', sans-serif;
+	font-size: 1.5rem;
+	margin-top: 1rem;
+	background-color: #dda15e;
+	color: #fefae0;
+	border: none;
+	transition: 0.4s all ease-in-out;
+	padding: 0.2rem 0.4rem;
+	border-radius: 0.3rem;
+	transition: all 0.3s ease-out;
+}
+
+.restart-btn:hover {
+	cursor: pointer;
+	background-color: #d9ad7c;
+	border: none;
+}
+
+.restart-btn:active {
+	transform: scale(0.95);
+}
